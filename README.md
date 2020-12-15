@@ -5,7 +5,7 @@
  - add `alias sail='bash src/vendor/bin/sail'` in ~.bash_profile file
 
 ### Setup Laravel project
-
+ -  use `src/vendor/bin/sail` if without setup alias for sail
 
 1. sail up -d
 2. copy .env.example into .env
