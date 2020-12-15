@@ -6,8 +6,9 @@
 
 ### Setup Laravel project
 
-1. copy .env.example into .env
-2. sail up -d
+
+1. sail up -d
+2. copy .env.example into .env
 3. sail composer install
 4. sail artisan key:generate
 5. sail artisan migrate
