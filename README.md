@@ -2,7 +2,7 @@
 ## SET UP ON MacOS
 
 ### Setup sail alias in ~.bash_profile file
- - add `alias sail='bash src/vendor/bin/sail'` in ~.bash_profile file
+ - add `alias sail='bash src/vendor/bin/sail'` in ~/.bash_profile file
 
 ### Setup Laravel project
  -  use `src/vendor/bin/sail` if without setup alias for sail
